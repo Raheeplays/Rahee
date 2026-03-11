@@ -1,0 +1,700 @@
+{
+  "placeholderImages": [
+    {
+      "id": "card-1",
+      "description": "Image for Rahee card",
+      "imageUrl": "https://picsum.photos/seed/card1/400/560",
+      "imageHint": "Rahee character"
+    },
+    {
+      "id": "card-2",
+      "description": "Image for Jethalal card",
+      "imageUrl": "https://picsum.photos/seed/card2/400/560",
+      "imageHint": "Jethalal character"
+    },
+    {
+      "id": "card-3",
+      "description": "Image for Daya card",
+      "imageUrl": "https://picsum.photos/seed/card3/400/560",
+      "imageHint": "Daya character"
+    },
+    {
+      "id": "card-4",
+      "description": "Image for Champaklal card",
+      "imageUrl": "https://picsum.photos/seed/card4/400/560",
+      "imageHint": "Champaklal character"
+    },
+    {
+      "id": "card-5",
+      "description": "Image for Tapu card",
+      "imageUrl": "https://picsum.photos/seed/card5/400/560",
+      "imageHint": "Tapu character"
+    },
+    {
+      "id": "card-6",
+      "description": "Image for Bhide card",
+      "imageUrl": "https://picsum.photos/seed/card6/400/560",
+      "imageHint": "Bhide character"
+    },
+    {
+      "id": "card-7",
+      "description": "Image for Madhuvi card",
+      "imageUrl": "https://picsum.photos/seed/card7/400/560",
+      "imageHint": "Madhuvi character"
+    },
+    {
+      "id": "card-8",
+      "description": "Image for Sonu card",
+      "imageUrl": "https://picsum.photos/seed/card8/400/560",
+      "imageHint": "Sonu character"
+    },
+    {
+      "id": "card-9",
+      "description": "Image for Sodhi card",
+      "imageUrl": "https://picsum.photos/seed/card9/400/560",
+      "imageHint": "Sodhi character"
+    },
+    {
+      "id": "card-10",
+      "description": "Image for Roshan card",
+      "imageUrl": "https://picsum.photos/seed/card10/400/560",
+      "imageHint": "Roshan character"
+    },
+    {
+      "id": "card-11",
+      "description": "Image for Gogi card",
+      "imageUrl": "https://picsum.photos/seed/card11/400/560",
+      "imageHint": "Gogi character"
+    },
+    {
+      "id": "card-12",
+      "description": "Image for Goli card",
+      "imageUrl": "https://picsum.photos/seed/card12/400/560",
+      "imageHint": "Goli character"
+    },
+    {
+      "id": "card-13",
+      "description": "Image for Hathi card",
+      "imageUrl": "https://picsum.photos/seed/card13/400/560",
+      "imageHint": "Hathi character"
+    },
+    {
+      "id": "card-14",
+      "description": "Image for Komal card",
+      "imageUrl": "https://picsum.photos/seed/card14/400/560",
+      "imageHint": "Komal character"
+    },
+    {
+      "id": "card-15",
+      "description": "Image for Pinku card",
+      "imageUrl": "https://picsum.photos/seed/card15/400/560",
+      "imageHint": "Pinku character"
+    },
+    {
+      "id": "card-16",
+      "description": "Image for Mehta card",
+      "imageUrl": "https://picsum.photos/seed/card16/400/560",
+      "imageHint": "Mehta character"
+    },
+    {
+      "id": "card-17",
+      "description": "Image for Anjali card",
+      "imageUrl": "https://picsum.photos/seed/card17/400/560",
+      "imageHint": "Anjali character"
+    },
+    {
+      "id": "card-18",
+      "description": "Image for Popatlal card",
+      "imageUrl": "https://picsum.photos/seed/card18/400/560",
+      "imageHint": "Popatlal character"
+    },
+    {
+      "id": "card-19",
+      "description": "Image for Babita card",
+      "imageUrl": "https://picsum.photos/seed/card19/400/560",
+      "imageHint": "Babita character"
+    },
+    {
+      "id": "card-20",
+      "description": "Image for Iyer card",
+      "imageUrl": "https://picsum.photos/seed/card20/400/560",
+      "imageHint": "Iyer character"
+    },
+    {
+      "id": "card-21",
+      "description": "Image for Rita card",
+      "imageUrl": "https://picsum.photos/seed/card21/400/560",
+      "imageHint": "Rita character"
+    },
+    {
+      "id": "card-22",
+      "description": "Image for Abdul card",
+      "imageUrl": "https://picsum.photos/seed/card22/400/560",
+      "imageHint": "Abdul character"
+    },
+    {
+      "id": "card-23",
+      "description": "Image for Chalu pandey card",
+      "imageUrl": "https://picsum.photos/seed/card23/400/560",
+      "imageHint": "Chalu pandey"
+    },
+    {
+      "id": "card-24",
+      "description": "Image for Sundar card",
+      "imageUrl": "https://picsum.photos/seed/card24/400/560",
+      "imageHint": "Sundar character"
+    },
+    {
+      "id": "card-25",
+      "description": "Image for Nattu Kaka card",
+      "imageUrl": "https://picsum.photos/seed/card25/400/560",
+      "imageHint": "Nattu Kaka"
+    },
+    {
+      "id": "card-26",
+      "description": "Image for Bagha card",
+      "imageUrl": "https://picsum.photos/seed/card26/400/560",
+      "imageHint": "Bagha character"
+    },
+    {
+      "id": "card-27",
+      "description": "Image for Acp card",
+      "imageUrl": "https://picsum.photos/seed/card27/400/560",
+      "imageHint": "Acp character"
+    },
+    {
+      "id": "card-28",
+      "description": "Image for Abhijeet card",
+      "imageUrl": "https://picsum.photos/seed/card28/400/560",
+      "imageHint": "Abhijeet character"
+    },
+    {
+      "id": "card-29",
+      "description": "Image for Daya card",
+      "imageUrl": "https://picsum.photos/seed/card29/400/560",
+      "imageHint": "Daya character"
+    },
+    {
+      "id": "card-30",
+      "description": "Image for Freddy card",
+      "imageUrl": "https://picsum.photos/seed/card30/400/560",
+      "imageHint": "Freddy character"
+    },
+    {
+      "id": "card-31",
+      "description": "Image for Vivek card",
+      "imageUrl": "https://picsum.photos/seed/card31/400/560",
+      "imageHint": "Vivek character"
+    },
+    {
+      "id": "card-32",
+      "description": "Image for Sachin card",
+      "imageUrl": "https://picsum.photos/seed/card32/400/560",
+      "imageHint": "Sachin character"
+    },
+    {
+      "id": "card-33",
+      "description": "Image for Purvi card",
+      "imageUrl": "https://picsum.photos/seed/card33/400/560",
+      "imageHint": "Purvi character"
+    },
+    {
+      "id": "card-34",
+      "description": "Image for Shreya card",
+      "imageUrl": "https://picsum.photos/seed/card34/400/560",
+      "imageHint": "Shreya character"
+    },
+    {
+      "id": "card-35",
+      "description": "Image for Dr Takrika card",
+      "imageUrl": "https://picsum.photos/seed/card35/400/560",
+      "imageHint": "Dr Takrika"
+    },
+    {
+      "id": "card-36",
+      "description": "Image for Dr. Shalukhe card",
+      "imageUrl": "https://picsum.photos/seed/card36/400/560",
+      "imageHint": "Dr Shalukhe"
+    },
+    {
+      "id": "card-37",
+      "description": "Image for Pankaj card",
+      "imageUrl": "https://picsum.photos/seed/card37/400/560",
+      "imageHint": "Pankaj character"
+    },
+    {
+      "id": "card-38",
+      "description": "Image for Vasant card",
+      "imageUrl": "https://picsum.photos/seed/card38/400/560",
+      "imageHint": "Vasant character"
+    },
+    {
+      "id": "card-39",
+      "description": "Image for Varsha card",
+      "imageUrl": "https://picsum.photos/seed/card39/400/560",
+      "imageHint": "Varsha character"
+    },
+    {
+      "id": "card-40",
+      "description": "Image for Hemant card",
+      "imageUrl": "https://picsum.photos/seed/card40/400/560",
+      "imageHint": "Hemant character"
+    },
+    {
+      "id": "card-41",
+      "description": "Image for Sharad card",
+      "imageUrl": "https://picsum.photos/seed/card41/400/560",
+      "imageHint": "Sharad character"
+    },
+    {
+      "id": "card-42",
+      "description": "Image for Shishir card",
+      "imageUrl": "https://picsum.photos/seed/card42/400/560",
+      "imageHint": "Shishir character"
+    },
+    {
+      "id": "card-43",
+      "description": "Image for Maakhan card",
+      "imageUrl": "https://picsum.photos/seed/card43/400/560",
+      "imageHint": "Maakhan character"
+    },
+    {
+      "id": "card-44",
+      "description": "Image for Ojha card",
+      "imageUrl": "https://picsum.photos/seed/card44/400/560",
+      "imageHint": "Ojha character"
+    },
+    {
+      "id": "card-45",
+      "description": "Image for Manav card",
+      "imageUrl": "https://picsum.photos/seed/card45/400/560",
+      "imageHint": "Manav character"
+    },
+    {
+      "id": "card-46",
+      "description": "Image for Laju card",
+      "imageUrl": "https://picsum.photos/seed/card46/400/560",
+      "imageHint": "Laju character"
+    },
+    {
+      "id": "card-47",
+      "description": "Image for Bhavna card",
+      "imageUrl": "https://picsum.photos/seed/card47/400/560",
+      "imageHint": "Bhavna character"
+    },
+    {
+      "id": "card-48",
+      "description": "Image for Bahrvi card",
+      "imageUrl": "https://picsum.photos/seed/card48/400/560",
+      "imageHint": "Bahrvi character"
+    },
+    {
+      "id": "card-49",
+      "description": "Image for Badhresh card",
+      "imageUrl": "https://picsum.photos/seed/card49/400/560",
+      "imageHint": "Badhresh character"
+    },
+    {
+      "id": "card-50",
+      "description": "Image for Anaa card",
+      "imageUrl": "https://picsum.photos/seed/card50/400/560",
+      "imageHint": "Anaa character"
+    },
+    {
+      "id": "card-51",
+      "description": "Image for Lisa card",
+      "imageUrl": "https://picsum.photos/seed/card51/400/560",
+      "imageHint": "Lisa character"
+    },
+    {
+      "id": "card-52",
+      "description": "Image for Rony card",
+      "imageUrl": "https://picsum.photos/seed/card52/400/560",
+      "imageHint": "Rony character"
+    },
+    {
+      "id": "card-53",
+      "description": "Image for Arman card",
+      "imageUrl": "https://picsum.photos/seed/card53/400/560",
+      "imageHint": "Arman character"
+    },
+    {
+      "id": "card-54",
+      "description": "Image for Anya card",
+      "imageUrl": "https://picsum.photos/seed/card54/400/560",
+      "imageHint": "Anya character"
+    },
+    {
+      "id": "card-55",
+      "description": "Image for Runav card",
+      "imageUrl": "https://picsum.photos/seed/card55/400/560",
+      "imageHint": "Runav character"
+    },
+    {
+      "id": "card-56",
+      "description": "Image for Tom And Jerry card",
+      "imageUrl": "https://picsum.photos/seed/card56/400/560",
+      "imageHint": "Tom Jerry"
+    },
+    {
+      "id": "card-57",
+      "description": "Image for Doremon card",
+      "imageUrl": "https://picsum.photos/seed/card57/400/560",
+      "imageHint": "Doremon character"
+    },
+    {
+      "id": "card-58",
+      "description": "Image for Oggy card",
+      "imageUrl": "https://picsum.photos/seed/card58/400/560",
+      "imageHint": "Oggy character"
+    },
+    {
+      "id": "card-59",
+      "description": "Image for Pokemon card",
+      "imageUrl": "https://picsum.photos/seed/card59/400/560",
+      "imageHint": "Pokemon character"
+    },
+    {
+      "id": "card-60",
+      "description": "Image for Shinchan card",
+      "imageUrl": "https://picsum.photos/seed/card60/400/560",
+      "imageHint": "Shinchan character"
+    },
+    {
+      "id": "card-61",
+      "description": "Image for Perman card",
+      "imageUrl": "https://picsum.photos/seed/card61/400/560",
+      "imageHint": "Perman character"
+    },
+    {
+      "id": "card-62",
+      "description": "Image for Kitresu card",
+      "imageUrl": "https://picsum.photos/seed/card62/400/560",
+      "imageHint": "Kitresu character"
+    },
+    {
+      "id": "card-63",
+      "description": "Image for Ninja Hattori card",
+      "imageUrl": "https://picsum.photos/seed/card63/400/560",
+      "imageHint": "Ninja Hattori"
+    },
+    {
+      "id": "card-64",
+      "description": "Image for Horrid Henry card",
+      "imageUrl": "https://picsum.photos/seed/card64/400/560",
+      "imageHint": "Horrid Henry"
+    },
+    {
+      "id": "card-65",
+      "description": "Image for Roll No 21 card",
+      "imageUrl": "https://picsum.photos/seed/card65/400/560",
+      "imageHint": "Roll No"
+    },
+    {
+      "id": "card-66",
+      "description": "Image for Benten card",
+      "imageUrl": "https://picsum.photos/seed/card66/400/560",
+      "imageHint": "Benten character"
+    },
+    {
+      "id": "card-67",
+      "description": "Image for Hagemaru card",
+      "imageUrl": "https://picsum.photos/seed/card67/400/560",
+      "imageHint": "Hagemaru character"
+    },
+    {
+      "id": "card-68",
+      "description": "Image for Pakdam Pakdai card",
+      "imageUrl": "https://picsum.photos/seed/card68/400/560",
+      "imageHint": "Pakdam Pakdai"
+    },
+    {
+      "id": "card-69",
+      "description": "Image for Hadi Badi card",
+      "imageUrl": "https://picsum.photos/seed/card69/400/560",
+      "imageHint": "Hadi Badi"
+    },
+    {
+      "id": "card-70",
+      "description": "Image for Micky Mouse card",
+      "imageUrl": "https://picsum.photos/seed/card70/400/560",
+      "imageHint": "Micky Mouse"
+    },
+    {
+      "id": "card-71",
+      "description": "Image for Sponshbob card",
+      "imageUrl": "https://picsum.photos/seed/card71/400/560",
+      "imageHint": "Sponshbob character"
+    },
+    {
+      "id": "card-72",
+      "description": "Image for Beyblade card",
+      "imageUrl": "https://picsum.photos/seed/card72/400/560",
+      "imageHint": "Beyblade character"
+    },
+    {
+      "id": "card-73",
+      "description": "Image for Carage The Cowerly Dog card",
+      "imageUrl": "https://picsum.photos/seed/card73/400/560",
+      "imageHint": "Courage Dog"
+    },
+    {
+      "id": "card-74",
+      "description": "Image for Power Puff Girls card",
+      "imageUrl": "https://picsum.photos/seed/card74/400/560",
+      "imageHint": "PowerPuff Girls"
+    },
+    {
+      "id": "card-75",
+      "description": "Image for Motu Patlu card",
+      "imageUrl": "https://picsum.photos/seed/card75/400/560",
+      "imageHint": "Motu Patlu"
+    },
+    {
+      "id": "card-76",
+      "description": "Image for Ub Ultra B card",
+      "imageUrl": "https://picsum.photos/seed/card76/400/560",
+      "imageHint": "Ub Ultra"
+    },
+    {
+      "id": "card-77",
+      "description": "Image for Gon Stoneage card",
+      "imageUrl": "https://picsum.photos/seed/card77/400/560",
+      "imageHint": "Gon Stoneage"
+    },
+    {
+      "id": "card-78",
+      "description": "Image for Dragon Tails card",
+      "imageUrl": "https://picsum.photos/seed/card78/400/560",
+      "imageHint": "Dragon Tails"
+    },
+    {
+      "id": "card-79",
+      "description": "Image for Gali Gali Sim Sim card",
+      "imageUrl": "https://picsum.photos/seed/card79/400/560",
+      "imageHint": "Gali Sim"
+    },
+    {
+      "id": "card-80",
+      "description": "Image for Power Rangers card",
+      "imageUrl": "https://picsum.photos/seed/card80/400/560",
+      "imageHint": "Power Rangers"
+    },
+    {
+      "id": "card-81",
+      "description": "Image for Vir The Robot Boy card",
+      "imageUrl": "https://picsum.photos/seed/card81/400/560",
+      "imageHint": "Vir Robot"
+    },
+    {
+      "id": "card-82",
+      "description": "Image for Shiva card",
+      "imageUrl": "https://picsum.photos/seed/card82/400/560",
+      "imageHint": "Shiva character"
+    },
+    {
+      "id": "card-83",
+      "description": "Image for Chor Police card",
+      "imageUrl": "https://picsum.photos/seed/card83/400/560",
+      "imageHint": "Chor Police"
+    },
+    {
+      "id": "card-84",
+      "description": "Image for Dora The Explora card",
+      "imageUrl": "https://picsum.photos/seed/card84/400/560",
+      "imageHint": "Dora Explorer"
+    },
+    {
+      "id": "card-85",
+      "description": "Image for Chota Bheem card",
+      "imageUrl": "https://picsum.photos/seed/card85/400/560",
+      "imageHint": "Chota Bheem"
+    },
+    {
+      "id": "card-86",
+      "description": "Image for Shon The Sheep card",
+      "imageUrl": "https://picsum.photos/seed/card86/400/560",
+      "imageHint": "Shaun Sheep"
+    },
+    {
+      "id": "card-87",
+      "description": "Image for Multi Cat Masked Ninando card",
+      "imageUrl": "https://picsum.photos/seed/card87/400/560",
+      "imageHint": "Masked Ninja"
+    },
+    {
+      "id": "card-88",
+      "description": "Image for Mr Beans card",
+      "imageUrl": "https://picsum.photos/seed/card88/400/560",
+      "imageHint": "Mr Bean"
+    },
+    {
+      "id": "card-89",
+      "description": "Image for Richi Rich card",
+      "imageUrl": "https://picsum.photos/seed/card89/400/560",
+      "imageHint": "Richie Rich"
+    },
+    {
+      "id": "card-90",
+      "description": "Image for Thomas And Friends card",
+      "imageUrl": "https://picsum.photos/seed/card90/400/560",
+      "imageHint": "Thomas Friends"
+    },
+    {
+      "id": "card-91",
+      "description": "Image for Selfy With Bajrangi card",
+      "imageUrl": "https://picsum.photos/seed/card91/400/560",
+      "imageHint": "Selfie Bajrangi"
+    },
+    {
+      "id": "card-92",
+      "description": "Image for Krish Trish And Balti Boy card",
+      "imageUrl": "https://picsum.photos/seed/card92/400/560",
+      "imageHint": "Krish Trish"
+    },
+    {
+      "id": "card-93",
+      "description": "Image for Daltons card",
+      "imageUrl": "https://picsum.photos/seed/card93/400/560",
+      "imageHint": "Daltons character"
+    },
+    {
+      "id": "card-94",
+      "description": "Image for Jungal book card",
+      "imageUrl": "https://picsum.photos/seed/card94/400/560",
+      "imageHint": "Jungle Book"
+    },
+    {
+      "id": "card-95",
+      "description": "Image for Popeye the Sailor Man card",
+      "imageUrl": "https://picsum.photos/seed/card95/400/560",
+      "imageHint": "Popeye Sailor"
+    },
+    {
+      "id": "card-96",
+      "description": "Image for Superman card",
+      "imageUrl": "https://picsum.photos/seed/card96/400/560",
+      "imageHint": "Superman character"
+    },
+    {
+      "id": "card-97",
+      "description": "Image for Spiderman card",
+      "imageUrl": "https://picsum.photos/seed/card97/400/560",
+      "imageHint": "Spiderman character"
+    },
+    {
+      "id": "card-98",
+      "description": "Image for The Flintstones card",
+      "imageUrl": "https://picsum.photos/seed/card98/400/560",
+      "imageHint": "The Flintstones"
+    },
+    {
+      "id": "card-99",
+      "description": "Image for Cubers card",
+      "imageUrl": "https://picsum.photos/seed/card99/400/560",
+      "imageHint": "Cubers character"
+    },
+    {
+      "id": "card-100",
+      "description": "Image for Chimpui card",
+      "imageUrl": "https://picsum.photos/seed/card100/400/560",
+      "imageHint": "Chimpui character"
+    },
+    {
+      "id": "card-101",
+      "description": "Image for Simpsons card",
+      "imageUrl": "https://picsum.photos/seed/card101/400/560",
+      "imageHint": "Simpsons character"
+    },
+    {
+      "id": "card-102",
+      "description": "Image for Princess card",
+      "imageUrl": "https://picsum.photos/seed/card102/400/560",
+      "imageHint": "Princess character"
+    },
+    {
+      "id": "card-103",
+      "description": "Image for Faq card",
+      "imageUrl": "https://picsum.photos/seed/card103/400/560",
+      "imageHint": "Faq character"
+    },
+    {
+      "id": "card-104",
+      "description": "Image for Mad card",
+      "imageUrl": "https://picsum.photos/seed/card104/400/560",
+      "imageHint": "Mad character"
+    },
+    {
+      "id": "card-105",
+      "description": "Image for Takeshis Castlw card",
+      "imageUrl": "https://picsum.photos/seed/card105/400/560",
+      "imageHint": "Takeshis Castle"
+    },
+    {
+      "id": "card-106",
+      "description": "Image for Time Coders / Edutoons card",
+      "imageUrl": "https://picsum.photos/seed/card106/400/560",
+      "imageHint": "Time Coders"
+    },
+    {
+      "id": "card-107",
+      "description": "Image for Rahee Cartoons card",
+      "imageUrl": "https://picsum.photos/seed/card107/400/560",
+      "imageHint": "Rahee Cartoons"
+    },
+    {
+      "id": "card-108",
+      "description": "Image for Knox card",
+      "imageUrl": "https://picsum.photos/seed/card108/400/560",
+      "imageHint": "Knox character"
+    },
+    {
+      "id": "card-109",
+      "description": "Image for Muskan card",
+      "imageUrl": "https://picsum.photos/seed/card109/400/560",
+      "imageHint": "Muskan character"
+    },
+    {
+      "id": "card-110",
+      "description": "Image for Ruhaan card",
+      "imageUrl": "https://picsum.photos/seed/card110/400/560",
+      "imageHint": "Ruhaan character"
+    },
+    {
+      "id": "card-111",
+      "description": "Image for Aiza card",
+      "imageUrl": "https://picsum.photos/seed/card111/400/560",
+      "imageHint": "Aiza character"
+    },
+    {
+      "id": "card-112",
+      "description": "Image for The Hacker X card",
+      "imageUrl": "https://picsum.photos/seed/card112/400/560",
+      "imageHint": "Hacker X"
+    },
+    {
+      "id": "card-113",
+      "description": "Image for Anubha card",
+      "imageUrl": "https://picsum.photos/seed/card113/400/560",
+      "imageHint": "Anubha character"
+    },
+    {
+      "id": "card-114",
+      "description": "Image for Maakhan card",
+      "imageUrl": "https://picsum.photos/seed/card114/400/560",
+      "imageHint": "Maakhan character"
+    },
+    {
+      "id": "card-115",
+      "description": "Image for Rahee card",
+      "imageUrl": "https://picsum.photos/seed/card115/400/560",
+      "imageHint": "Rahee character"
+    },
+    {
+      "id": "card-116",
+      "description": "Image for Rahee Not You card",
+      "imageUrl": "https://picsum.photos/seed/card116/400/560",
+      "imageHint": "Rahee abstract"
+    }
+  ]
+}
